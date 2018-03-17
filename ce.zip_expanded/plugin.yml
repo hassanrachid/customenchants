@@ -1,4 +1,4 @@
-main: me.futurize.enchants.EraEnchants
+main: me.grizzly.enchants.EraEnchants
 name: EraEnchants
 version: 1.0
 commands:
