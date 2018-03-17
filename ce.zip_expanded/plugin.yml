@@ -1,0 +1,20 @@
+main: me.futurize.enchants.EraEnchants
+name: EraEnchants
+version: 1.0
+commands:
+  addenchant:
+    description: Adds custom enchant to item
+  giveitem:
+    description: Gives player a tiered item
+  enchanter:
+    description: Opens the enchanter
+  giveunknown:
+    description: Gives a player an unknown crystal
+  ce:
+    description: Shows all available enchants
+  upgrader:
+    description: Upgrades your enchantment crystal
+  giveshard:
+    description: Gives player a shard
+  recycler:
+    description: Recycles all unwanted enchanted items/crystals
